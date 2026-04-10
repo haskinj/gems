@@ -12,6 +12,12 @@
 
 ---
 
+### 💎 GEMS Notice
+This repository is the new home for all **GEMS** research. Traditional GEMS content has been migrated to:
+[➡️ https://okayestperson.neocities.org/OkayestPerson/WEBSITE/GeminiGems](https://okayestperson.neocities.org/OkayestPerson/WEBSITE/GeminiGems)
+
+---
+
 ### ⚠️ Mirror Notice
 This is the personal development branch for **CR-IMRaD**. It contains drafting for new versions of the documentation standard and experimental validator configurations.
 
